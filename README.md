@@ -9,7 +9,9 @@ You will need:
 
 Download `Simple.Cross-Product.Calculator.py` from the Releases tab. Run/open to start the script.
 
-File was tested with Python 3.9.2 with Windows 10 19043.1237, may or may not work with older Windows version or with Linux-based distros.
+File should work with most online IDEs.
+
+Works with Python 3.9.2 on Windows 10 19043.1237. Other versions of Python will most likely work. Older versions of Windows or Linux-based distros should also be able to run this file with no issue, though I have not personally tested it.
 
 Should work with most online IDEs.
 
