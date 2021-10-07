@@ -15,8 +15,6 @@ File should work with most online IDEs.
 
 Works offline with Python 3.9.2 on Windows 10 19043.1237. Other versions of Python will most likely work. Older versions of Windows or Linux-based distros should also be able to run this file with no issue, though I have not personally tested it.
 
-Should work with most online IDEs.
-
 ## Usage
 You will need the two rectangular forms of the two given vectors.
 
