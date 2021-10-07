@@ -57,3 +57,6 @@ which shows the simplified work of the two sides from the following equation:
 [(Ay * Bz)i + (Az * Bx)j + (Ax * By)k] - [(Ax * Bz)j + (Az * By)i + (Ay * Bx)k]
 ```
 and adds them together to form the solution.
+
+## 
+- https://github.com/ricky8k
