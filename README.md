@@ -5,7 +5,7 @@ This application allows you to multiply a pair of vectors by simply inputting `i
 
 ## Installation
 You will need:
-- Python 3.9.2 or later
+- Python (works with 3.9.2)
 
 Download `Simple.Cross-Product.Calculator.py` from the Releases tab. Run/open to start the script.
 
