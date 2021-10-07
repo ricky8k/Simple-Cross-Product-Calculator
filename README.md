@@ -13,7 +13,7 @@ Download `Simple.Cross-Product.Calculator.py` from the Releases tab. Run/open to
 
 File should work with most online IDEs.
 
-Works offline with Python 3.9.2 on Windows 10 19043.1237. Other versions of Python will most likely work. Older versions of Windows or Linux-based distros should also be able to run this file with no issue, though I have not personally tested it.
+Works offline with Python 3.9.2 on Windows 10 19043.1237. Older versions of Python will most likely work. Other versions of Windows or Linux-based distros should also be able to run this file with no issue, though I have not personally tested it.
 
 ## Usage
 You will need the two rectangular forms of the two given vectors.
