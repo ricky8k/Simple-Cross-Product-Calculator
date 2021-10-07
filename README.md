@@ -9,7 +9,7 @@ You will need:
 
 Download `Simple.Cross-Product.Calculator.py` from the Releases tab. Run/open to start the script.
 
-File was tested only with Microsoft Windows, may or may not work with Linux-based distros.
+File was tested with Python 3.9.2 with Windows 10 19043.1237, may or may not work with older Windows version or with Linux-based distros.
 
 ## Usage
 You will need the two rectangular forms of the two given vectors.
