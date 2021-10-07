@@ -1,7 +1,8 @@
 # Simple Cross-Product Calculator
-# Poorly-formatted (but it works) by ricky8K
+# Poorly-formatted (but it works) by ricky8k
 
 print("Simple Cross-Product Calculator")
+print("\n| i | j | k | i | j |\n| _ | \ | \ | \ | _ |\n| _ | _ | \ | \ | \ |")
 print("____________________\n")
 
 # Input vectors for A
@@ -36,5 +37,5 @@ print("--------------------")
 print(str(float((j1 * k2) + (-(k1 * j2)))) + "i " + str(float((k1 * i2) + (-(i1 * k2)))) + "j " + str(float((i1 * j2) + (-(j1 * i2)))) + "k")
 
 print("\nhttps://github.com/ricky8k")
-# Made by ricky8K
+# Made by ricky8k
 # https://github.com/ricky8k
