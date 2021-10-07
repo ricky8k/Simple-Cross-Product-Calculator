@@ -36,6 +36,7 @@ print("--------------------")
 # Add both halves to get final answer:
 print(str(float((j1 * k2) + (-(k1 * j2)))) + "i " + str(float((k1 * i2) + (-(i1 * k2)))) + "j " + str(float((i1 * j2) + (-(j1 * i2)))) + "k")
 
-print("\nhttps://github.com/ricky8k")
+print("\nhttps://github.com/ricky8k\n")
+input('Press [Enter] to exit')
 # Made by ricky8k
 # https://github.com/ricky8k
