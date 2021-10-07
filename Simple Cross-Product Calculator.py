@@ -35,6 +35,6 @@ print("--------------------")
 # Add both halves to get final answer:
 print(str(float((j1 * k2) + (-(k1 * j2)))) + "i " + str(float((k1 * i2) + (-(i1 * k2)))) + "j " + str(float((i1 * j2) + (-(j1 * i2)))) + "k")
 
-print("\n[gitlink]")
+print("\nhttps://github.com/ricky8k")
 # Made by ricky8K
-# [gitlink]
+# https://github.com/ricky8k
