@@ -26,7 +26,7 @@ print(str(float(i2)) + "i " + str(float(j2)) + "j " + str(float(k2)) + "k ")
 #   | i  | j  | k  | i  | j  |
 # 1 | Ax | Ay | Az | Ax | Ay | 
 # 2 | Bx | By | Bz | Bx | By |
-# e.g. (j1 * k2) = (b * b)
+# e.g. (j1 * k2) = (Ay * Bz)
 print("\nSolution:")
 print(str(float(j1 * k2)) + "i " + str(float(k1 * i2)) + "j " + str(float(i1 * j2)) + "k")
 # "i" and "j" swapped places in line 2 to make addition easier
