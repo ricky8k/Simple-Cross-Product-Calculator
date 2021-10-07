@@ -23,9 +23,9 @@ print(str(float(i1)) + "i " + str(float(j1)) + "j " + str(float(k1)) + "k ")
 print(str(float(i2)) + "i " + str(float(j2)) + "j " + str(float(k2)) + "k ")
 
 # Solution calculated by using table:
-#   | i | j | k | i | j |
-# 1 | _ | b | _ | _ | _ | 
-# 2 | _ | _ | b | _ | _ |
+#   | i  | j  | k  | i  | j  |
+# 1 | Ax | Ay | Az | Ax | Ay | 
+# 2 | Bx | By | Bz | Bx | By |
 # e.g. (j1 * k2) = (b * b)
 print("\nSolution:")
 print(str(float(j1 * k2)) + "i " + str(float(k1 * i2)) + "j " + str(float(i1 * j2)) + "k")
