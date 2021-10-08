@@ -23,7 +23,7 @@ Type in the `i`, `j`, and `k` values for both vectors to get the answer.
 ### Example
 Given a pair of vectors in rectangular form:
 ```
-A = -2i - 3j - 5k
+A = -2i + 3j - 5k
 B =  3i + 5j - 7k
 ```
 The input to the calculator for vector `A` is as follows:
