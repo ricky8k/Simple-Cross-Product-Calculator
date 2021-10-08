@@ -63,4 +63,5 @@ which shows the simplified work of the two sides from the following equation:
 and adds them together to form the solution.
 
 ## 
+*ricky8k*
 - https://github.com/ricky8k
